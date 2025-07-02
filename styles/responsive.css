@@ -1,0 +1,6 @@
+@media screen and (max-width:767px){
+    main .w_container .like_brand .brand_container .brand_wrap {display:none;}
+    main .w_container .recommend .recommend_list .recommend_product04,
+    main .w_container .recommend .recommend_list .recommend_product05,
+    main .w_container .recommend .recommend_list .recommend_product06 {display:none;}
+} 
